@@ -1,0 +1,19 @@
+{
+  "name": "@alexandermtang/colors",
+  "version": "1.0.0",
+  "description": "Proof of concept colors library",
+  "main": "colors.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexandermtang/colors.git"
+  },
+  "author": "alex.m.tang@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alexandermtang/colors/issues"
+  },
+  "homepage": "https://github.com/alexandermtang/colors#readme"
+}
